@@ -129,8 +129,8 @@ export default function Home() {
               y2="143.5"
               gradientUnits="userSpaceOnUse"
             >
-              <stop stop-color="#59C1BD" />
-              <stop offset="1" stop-color="#F7F9F9" />
+              <stop stopColor="#59C1BD" />
+              <stop offset="1" stopColor="#F7F9F9" />
             </linearGradient>
             <linearGradient
               id="paint1_linear_14_44"
@@ -140,8 +140,8 @@ export default function Home() {
               y2="377.5"
               gradientUnits="userSpaceOnUse"
             >
-              <stop stop-color="#59C1BD" />
-              <stop offset="1" stop-color="#F7F9F9" />
+              <stop stopColor="#59C1BD" />
+              <stop offset="1" stopColor="#F7F9F9" />
             </linearGradient>
             <linearGradient
               id="paint2_linear_14_44"
@@ -151,8 +151,8 @@ export default function Home() {
               y2="611.5"
               gradientUnits="userSpaceOnUse"
             >
-              <stop stop-color="#59C1BD" />
-              <stop offset="1" stop-color="#F7F9F9" />
+              <stop stopColor="#59C1BD" />
+              <stop offset="1" stopColor="#F7F9F9" />
             </linearGradient>
           </defs>
         </motion.svg>

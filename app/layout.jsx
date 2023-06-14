@@ -6,10 +6,10 @@ import Navbar from './components/Navbar/Navbar';
 
 const inter = Inter({ subsets: ['latin'] });
 
-export const metadata = {
+/* export const metadata = {
   title: 'Holocruxe',
   description: 'The AI for your legacy',
-};
+}; */
 
 export default function RootLayout({ children }) {
   return (
